@@ -6,7 +6,7 @@ import (
 	"net/http"
 	//ファイル分割したモジュール
 	//DB関係
-	"wordapp/db"
+	//"wordapp/db"
 )
 
 // global変数
