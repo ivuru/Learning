@@ -1,3 +1,5 @@
+package Java.App;
+
 class dentaku4{
   public static void main(String args[]){
     int val1 = 0;  /* 最初の数字 */
